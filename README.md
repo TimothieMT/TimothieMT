@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=timothiemt&label=Profile%20views&color=0e75b6&style=flat" alt="timothiemt" /> </p>
 - 🌱 I’m currently learning **Fullstack with MERN**
 
-- My page at [https://portfolie-new.vercel.app/](https://portfolie-new.vercel.app/)
+- My page at [https://timothiedev.eu/](https://timothiedev.eu/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
