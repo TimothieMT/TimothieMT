@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Tim</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=timothiemt&label=Profile%20views&color=0e75b6&style=flat" alt="timothiemt" /> </p>
-- 🌱 I’m currently learning **Fullstack with MERN**
+- 🌱 I’m currently learning **Fullstack Web Development**
 
 - My page at [https://www.timothiedev.eu/](https://www.timothiedev.eu/)
 
